@@ -16,6 +16,6 @@
 
 Ingestix is an experimental high-performance, observability-first micro-framework for Rust that bridges raw network ingestion and structured data processing. Whether you are building a log aggregator, a real-time gateway for distributed databases, or a high-throughput webhook handler, Ingestix provides the core runtime you need.
 
-### 🌐 Explore Ingestix (coming soon)
+### 🌐 Explore Ingestix
 * **Documentation & Web:** [ingestix.org](https://ingestix.org)
 * **Core Framework:** [https://github.com/ingestix/ingestix](https://github.com/ingestix/ingestix)
